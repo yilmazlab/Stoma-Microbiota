@@ -1,0 +1,375 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Patient_Initials	Patient_ID	Age	Gender	Diagnosis	Diagnosis_Simplified	Sample_Style	Anatomic_Location	Col_Ile	Ethnicity	Diet	Smoking_Status	Antibiotics_3months	Description
+1	CTAAGGTAAC	ATTAGATACCCYGGTAGTCC	KL	1	56	F	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip44
+2	TTGGAGGCCAGC	ATTAGATACCCYGGTAGTCC	MQ	2	50	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip61
+3	AAGAGGATTC	ATTAGATACCCYGGTAGTCC	LB	3	88	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	Yes	Chip44
+4	TACCAAGATC	ATTAGATACCCYGGTAGTCC	FS	4	79	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip44
+5	CAGAAGGAAC	ATTAGATACCCYGGTAGTCC	RF	5	22	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+6	CTGCAAGTTC	ATTAGATACCCYGGTAGTCC	OW	6	85	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip44
+7	TTCGTGATTC	ATTAGATACCCYGGTAGTCC	MH	7	71	F	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip44
+8	TTCCGATAAC	ATTAGATACCCYGGTAGTCC	MH	8	67	F	CD	IBD	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip44
+9	TGAGCGGAAC	ATTAGATACCCYGGTAGTCC	GC	9	77	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	Yes	Chip44
+10	CTGACCGAAC	ATTAGATACCCYGGTAGTCC	BN	10	49	F	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip44
+11	TCCTCGAATC	ATTAGATACCCYGGTAGTCC	MK	11	59	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	NA	NA	Chip44
+12	TAGGTGGTTC	ATTAGATACCCYGGTAGTCC	EG	12	71	M	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+13	TCTAACGGAC	ATTAGATACCCYGGTAGTCC	EW	13	69	F	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+14.1	CTGACCGAAC	ATTAGATACCCYGGTAGTCC	AS	14	76	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip62
+15	TCTAGAGGTC	ATTAGATACCCYGGTAGTCC	MH	15	56	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	No	Chip44
+16	TCTGGATGAC	ATTAGATACCCYGGTAGTCC	UC	16	68	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	No	Chip44
+17	TCTATTCGTC	ATTAGATACCCYGGTAGTCC	TM	17	46	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	No	Chip44
+18	AGGCAATTGC	ATTAGATACCCYGGTAGTCC	AM	18	51	F	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip44
+19	TTAGTCGGAC	ATTAGATACCCYGGTAGTCC	HF	19	45	F	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip44
+20	CAGATCCATC	ATTAGATACCCYGGTAGTCC	PA	20	69	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+21	TCGCAATTAC	ATTAGATACCCYGGTAGTCC	BN	21	54	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip44
+22	TTCGAGACGC	ATTAGATACCCYGGTAGTCC	BH	22	83	M	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	Yes	Chip44
+23	TGCCACGAAC	ATTAGATACCCYGGTAGTCC	SS	23	48	M	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	No	Chip44
+24	AACCTCATTC	ATTAGATACCCYGGTAGTCC	EH	24	84	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	Yes	Chip44
+25	CCTGAGATAC	ATTAGATACCCYGGTAGTCC	LB	3	88	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip44
+26	TTACAACCTC	ATTAGATACCCYGGTAGTCC	EK	26	58	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+27	AACCATCCGC	ATTAGATACCCYGGTAGTCC	EH	27	63	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip44
+28	ATCCGGAATC	ATTAGATACCCYGGTAGTCC	TC	28	47	M	CD	IBD	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	Yes	Chip44
+29	TCGACCACTC	ATTAGATACCCYGGTAGTCC	WR	29	63	M	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	Yes	Chip44
+30	CGAGGTTATC	ATTAGATACCCYGGTAGTCC	DH	30	59	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip44
+31	TCCAAGCTGC	ATTAGATACCCYGGTAGTCC	AV	31	76	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	Yes	Chip44
+32	TCTTACACAC	ATTAGATACCCYGGTAGTCC	HK	32	77	M	CC	CC	Bag	Colostoma_Left	Colostoma	Japanese	Normal	Never	No	Chip44
+33	TTCTCATTGAAC	ATTAGATACCCYGGTAGTCC	VN	33	83	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Other	Never	No	Chip44
+34	TCGCATCGTTC	ATTAGATACCCYGGTAGTCC	HR	34	88	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	No	Chip44
+35.1	TAAGCCATTGTC	ATTAGATACCCYGGTAGTCC	EM	35	60	F	Other	Other	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	Yes	Chip44
+35.3	AAGGAATCGTC	ATTAGATACCCYGGTAGTCC	EM	35	60	F	Other	Other	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Never	Yes	Chip44
+36.1	TCAGTCCGAAC	ATTAGATACCCYGGTAGTCC	RT	36	71	F	CC	CC	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Never	Yes	Chip61
+36.3	TGGAGGACGGAC	ATTAGATACCCYGGTAGTCC	RT	36	71	F	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	Yes	Chip44
+37	TAACAATCGGC	ATTAGATACCCYGGTAGTCC	SA	37	67	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	Yes	Chip44
+38.3	CTGACATAATC	ATTAGATACCCYGGTAGTCC	AM	18	51	M	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	No	Chip44
+39.1	TTCCACTTCGC	ATTAGATACCCYGGTAGTCC	MO	39	58	M	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	No	Chip44
+39.3	AGCACGAATC	ATTAGATACCCYGGTAGTCC	MO	39	58	M	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	No	Chip44
+40.1	CTTGACACCGC	ATTAGATACCCYGGTAGTCC	EB	40	58	F	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+40.3	TTGGAGGCCAGC	ATTAGATACCCYGGTAGTCC	EB	40	58	F	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+41	TGGAGCTTCCTC	ATTAGATACCCYGGTAGTCC	FR	41	22	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip44
+42	TCAGTCCGAAC	ATTAGATACCCYGGTAGTCC	HO	42	71	F	CD	IBD	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	Yes	Chip44
+43.1	TAAGGCAACCAC	ATTAGATACCCYGGTAGTCC	ES	43	73	F	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Former	Yes	Chip44
+43.3	TTCTAAGAGAC	ATTAGATACCCYGGTAGTCC	ES	43	73	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	Yes	Chip44
+44.1	TCCTAACATAAC	ATTAGATACCCYGGTAGTCC	MS	44	60	M	CC	CC	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip44
+44.3	CGGACAATGGC	ATTAGATACCCYGGTAGTCC	MS	44	60	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip44
+45.1	TTGAGCCTATTC	ATTAGATACCCYGGTAGTCC	BN	10	49	F	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip44
+45.3	TAAGGCAACCAC	ATTAGATACCCYGGTAGTCC	BN	10	49	F	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip61
+46.1	CTGGCAATCCTC	ATTAGATACCCYGGTAGTCC	HH	46	64	M	CC	CC	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Current	Yes	Chip44
+46.3	CCGGAGAATCGC	ATTAGATACCCYGGTAGTCC	HH	46	64	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	Yes	Chip44
+47.1	TCCACCTCCTC	ATTAGATACCCYGGTAGTCC	SB	47	81	F	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip44
+47.3	TGAGCGGAAC	ATTAGATACCCYGGTAGTCC	SB	47	81	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip62
+48.1	TCTGGCAACGGC	ATTAGATACCCYGGTAGTCC	PB	48	53	M	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip44
+48.3	TCCTAGAACAC	ATTAGATACCCYGGTAGTCC	PB	48	53	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip44
+49.1	TCCTTGATGTTC	ATTAGATACCCYGGTAGTCC	MO	39	58	M	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip44
+49.3	TCTAGCTCTTC	ATTAGATACCCYGGTAGTCC	MO	39	58	M	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip44
+50.3	TCACTCGGATC	ATTAGATACCCYGGTAGTCC	PB	50	85	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip44
+51.3	TTCCTGCTTCAC	ATTAGATACCCYGGTAGTCC	CJ	51	45	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip44
+52.3	CCTTAGAGTTC	ATTAGATACCCYGGTAGTCC	BK	52	50	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+53.1	CTGAGTTCCGAC	ATTAGATACCCYGGTAGTCC	PW	53	76	M	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+53.3	TCCTGGCACATC	ATTAGATACCCYGGTAGTCC	PW	53	76	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+54.3	CCGCAATCATC	ATTAGATACCCYGGTAGTCC	EG	54	70	F	UC	IBD	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	NA	No	Chip44
+55.1	TTCCTACCAGTC	ATTAGATACCCYGGTAGTCC	ES	55	56	F	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+55.3	TCCTAACATAAC	ATTAGATACCCYGGTAGTCC	ES	55	56	F	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip61
+56.1	TTCAATTGGC	ATTAGATACCCYGGTAGTCC	EB	56	80	M	CC	CC	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip44
+56.3	CCTACTGGTC	ATTAGATACCCYGGTAGTCC	EB	56	80	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip44
+57.1	TACCAAGATC	ATTAGATACCCYGGTAGTCC	HG	57	73	M	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	Yes	Chip62
+57.3	CGAAGGCCACAC	ATTAGATACCCYGGTAGTCC	HG	57	73	M	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	Yes	Chip44
+58.1	TCTGCCTGTC	ATTAGATACCCYGGTAGTCC	AR	58	83	M	CC	CC	Stoma	Colostoma_Left	Colostoma	Pakistanian	Normal	Never	No	Chip44
+58.3	TTGAGCCTATTC	ATTAGATACCCYGGTAGTCC	AR	58	83	M	CC	CC	Bag	Colostoma_Left	Colostoma	Pakistanian	Normal	Never	No	Chip61
+59.1	TCAGGAATAC	ATTAGATACCCYGGTAGTCC	BW	59	50	M	UC	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip44
+59.3	CTGCAAGTTC	ATTAGATACCCYGGTAGTCC	BW	59	50	M	UC	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip62
+60.3	CGAAGCGATTC	ATTAGATACCCYGGTAGTCC	BB	60	60	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	No	Chip44
+61.1	CAGCCAATTCTC	ATTAGATACCCYGGTAGTCC	EB	40	58	F	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+61.3	CCTGGTTGTC	ATTAGATACCCYGGTAGTCC	EB	40	58	F	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip44
+62.1	TTCCGATAAC	ATTAGATACCCYGGTAGTCC	MB	62	80	F	Other	Other	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip62
+62.3	TAGGTGGTTC	ATTAGATACCCYGGTAGTCC	MB	62	80	F	Other	Other	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip62
+63.1	TCCTCGAATC	ATTAGATACCCYGGTAGTCC	UK	63	68	M	CC	CC	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Former	No	Chip62
+63.3	TCTAACGGAC	ATTAGATACCCYGGTAGTCC	UK	63	68	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	No	Chip62
+64.1	TTGGAGTGTC	ATTAGATACCCYGGTAGTCC	RS	36	83	F	CC	CC	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip62
+64.3	TCTGGATGAC	ATTAGATACCCYGGTAGTCC	RS	36	83	F	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip62
+66.1	CTAAGGTAAC	ATTAGATACCCYGGTAGTCC	RZ	66	44	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Vegan	Never	Yes	Chip48
+66.3	TTCTCATTGAAC	ATTAGATACCCYGGTAGTCC	RZ	66	44	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Vegan	Never	Yes	Chip61
+67.1	AAGAGGATTC	ATTAGATACCCYGGTAGTCC	LS	67	17	M	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip48
+67.3	TACCAAGATC	ATTAGATACCCYGGTAGTCC	LS	67	17	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip48
+68.1	CAGAAGGAAC	ATTAGATACCCYGGTAGTCC	VN	33	83	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip48
+68.3	CTGCAAGTTC	ATTAGATACCCYGGTAGTCC	VN	33	83	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip48
+69.3	TCGCATCGTTC	ATTAGATACCCYGGTAGTCC	BN	10	49	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip61
+70.3	TTCCGATAAC	ATTAGATACCCYGGTAGTCC	BG	70	61	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip48
+71.1	TGAGCGGAAC	ATTAGATACCCYGGTAGTCC	AG	71	38	M	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip48
+71.3	TAAGCCATTGTC	ATTAGATACCCYGGTAGTCC	AG	67	38	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip61
+72.1	TCCTCGAATC	ATTAGATACCCYGGTAGTCC	LS	67	17	M	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip48
+72.3	TAGGTGGTTC	ATTAGATACCCYGGTAGTCC	LS	67	17	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip48
+73.1	TCTAACGGAC	ATTAGATACCCYGGTAGTCC	CF	73	44	F	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip48
+73.3	TTGGAGTGTC	ATTAGATACCCYGGTAGTCC	CF	73	44	F	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip48
+74.1	TTCGTGATTC	ATTAGATACCCYGGTAGTCC	WB	74	51	M	CU	IBD	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip62
+74.3	TCTAGAGGTC	ATTAGATACCCYGGTAGTCC	WB	74	51	M	CU	IBD	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip48
+75.1	TCTGGATGAC	ATTAGATACCCYGGTAGTCC	TC	28	47	M	CU	IBD	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip48
+75.3	TCTATTCGTC	ATTAGATACCCYGGTAGTCC	TC	28	47	M	CU	IBD	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip48
+76.1	AGGCAATTGC	ATTAGATACCCYGGTAGTCC	TF	76	29	M	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip48
+77.1	CAGATCCATC	ATTAGATACCCYGGTAGTCC	PA	77	73	M	CC	CC	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Current	No	Chip48
+78.3	TTCGAGACGC	ATTAGATACCCYGGTAGTCC	DL	78	61	M	CD	IBD	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	Yes	Chip48
+79.1	TGCCACGAAC	ATTAGATACCCYGGTAGTCC	NG	79	63	F	Other	Other	Stoma	Colostoma_Left	Colostoma	Other	Normal	Never	No	Chip48
+79.3	AACCTCATTC	ATTAGATACCCYGGTAGTCC	NG	79	63	F	Other	Other	Bag	Colostoma_Left	Colostoma	Other	Normal	Never	No	Chip48
+80.3	AGGCAATTGC	ATTAGATACCCYGGTAGTCC	DK	80	83	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip62
+81.1	TTCGAGACGC	ATTAGATACCCYGGTAGTCC	EA	81	78	F	CC	CC	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip62
+81.3	TGCCACGAAC	ATTAGATACCCYGGTAGTCC	EA	81	78	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip62
+82.3	AACCTCATTC	ATTAGATACCCYGGTAGTCC	PG	82	86	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip62
+83.1	TTACAACCTC	ATTAGATACCCYGGTAGTCC	WB	74	51	M	CU	IBD	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip48
+83.3	AACCATCCGC	ATTAGATACCCYGGTAGTCC	WB	74	51	M	CU	IBD	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip48
+84.1	ATCCGGAATC	ATTAGATACCCYGGTAGTCC	NW	84	47	F	Other	Other	Stoma	Colostoma_Left	Colostoma	Other	Normal	Never	No	Chip48
+84.3	TCGACCACTC	ATTAGATACCCYGGTAGTCC	NW	84	47	F	Other	Other	Bag	Colostoma_Left	Colostoma	Other	Normal	Never	No	Chip48
+85.3	CGAGGTTATC	ATTAGATACCCYGGTAGTCC	HN	85	74	M	CC	CC	Bag	Ileostoma	Ileostoma	Other	Normal	Never	Yes	Chip48
+86.3	TCCAAGCTGC	ATTAGATACCCYGGTAGTCC	MH	8	72	F	UC	IBD	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip48
+87.1	TCTTACACAC	ATTAGATACCCYGGTAGTCC	CT	87	83	F	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip48
+87.3	TTCTCATTGAAC	ATTAGATACCCYGGTAGTCC	CT	87	83	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip48
+88.1	TCGCATCGTTC	ATTAGATACCCYGGTAGTCC	RZ	66	44	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Vegan	Never	Yes	Chip48
+88.3	TAAGCCATTGTC	ATTAGATACCCYGGTAGTCC	RZ	66	44	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Vegan	Never	Yes	Chip48
+89.3	TCCAAGCTGC	ATTAGATACCCYGGTAGTCC	DF	89	75	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip62
+90.1	AAGGAATCGTC	ATTAGATACCCYGGTAGTCC	BB	60	60	M	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip48
+90.3	CTTGAGAATGTC	ATTAGATACCCYGGTAGTCC	BB	60	60	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip48
+91.3	TGGAGGACGGAC	ATTAGATACCCYGGTAGTCC	RF	5	23	M	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip48
+92.1	TAACAATCGGC	ATTAGATACCCYGGTAGTCC	HJ	92	77	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip48
+92.3	CTGACATAATC	ATTAGATACCCYGGTAGTCC	HJ	92	77	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip48
+93.3	TTACAACCTC	ATTAGATACCCYGGTAGTCC	MS	44	60	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip62
+94.1	TCGCATCGTTC	ATTAGATACCCYGGTAGTCC	LB	94	82	F	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip62
+94.3	TAAGCCATTGTC	ATTAGATACCCYGGTAGTCC	LB	94	83	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip62
+95.1	AAGGAATCGTC	ATTAGATACCCYGGTAGTCC	VN	33	83	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip62
+95.3	CTTGAGAATGTC	ATTAGATACCCYGGTAGTCC	VN	33	83	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip62
+96.3	TCAGTCCGAAC	ATTAGATACCCYGGTAGTCC	HZ	96	79	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip48
+97.1	CTGACATAATC	ATTAGATACCCYGGTAGTCC	FJ	97	61	M	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip61
+97.3	TTCCACTTCGC	ATTAGATACCCYGGTAGTCC	FJ	97	61	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip61
+98.1	TCCTAACATAAC	ATTAGATACCCYGGTAGTCC	CF	73	44	F	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip48
+99.1	TTGAGCCTATTC	ATTAGATACCCYGGTAGTCC	PA	20	70	M	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip48
+99.3	CCGCATGGAAC	ATTAGATACCCYGGTAGTCC	PA	20	70	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip48
+100.3	CTGGCAATCCTC	ATTAGATACCCYGGTAGTCC	MN	100	39	M	UC	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip48
+101.1	CCGGAGAATCGC	ATTAGATACCCYGGTAGTCC	KB	101	40	F	CD	IBD	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip48
+102.1	TCCACCTCCTC	ATTAGATACCCYGGTAGTCC	AR	102	58	M	CC	CC	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Never	Yes	Chip48
+102.3	CAGCATTAATTC	ATTAGATACCCYGGTAGTCC	AR	102	58	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	Yes	Chip48
+103.1	TCTGGCAACGGC	ATTAGATACCCYGGTAGTCC	WK	103	83	M	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	NA	Chip48
+103.3	TCCTAGAACAC	ATTAGATACCCYGGTAGTCC	WK	103	83	M	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	NA	Chip48
+104.3	TCCTTGATGTTC	ATTAGATACCCYGGTAGTCC	LS	67	17	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip48
+105.3	TCTAGCTCTTC	ATTAGATACCCYGGTAGTCC	FG	105	64	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	No	Chip48
+107.1	TCACTCGGATC	ATTAGATACCCYGGTAGTCC	MH	107	66	F	CD	IBD	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip48
+107.3	TTCCTGCTTCAC	ATTAGATACCCYGGTAGTCC	MH	107	66	F	CD	IBD	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip48
+108.3	CCTTAGAGTTC	ATTAGATACCCYGGTAGTCC	GE	108	71	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip48
+109.3	CTGAGTTCCGAC	ATTAGATACCCYGGTAGTCC	MDV	109	81	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Vegan	Never	No	Chip48
+110.1	TCCTGGCACATC	ATTAGATACCCYGGTAGTCC	FA	110	85	M	Other	Other	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Current	Yes	Chip48
+111.3	CCGCAATCATC	ATTAGATACCCYGGTAGTCC	LM	3	54	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	Yes	Chip48
+112.3	TTCCTACCAGTC	ATTAGATACCCYGGTAGTCC	UK	63	68	M	CC	CC	Bag	Colostoma_Right	Ileostoma	Caucasian	Normal	Former	No	Chip48
+113.1	TCAAGAAGTTC	ATTAGATACCCYGGTAGTCC	RF	5	23	M	Other	Other	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip48
+113.3	TTCAATTGGC	ATTAGATACCCYGGTAGTCC	RF	5	23	M	Other	Other	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip48
+114.1	CCTACTGGTC	ATTAGATACCCYGGTAGTCC	OSB	114	81	F	CC	CC	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip48
+114.3	TGAGGCTCCGAC	ATTAGATACCCYGGTAGTCC	OSB	114	81	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip48
+115.1	CGAAGGCCACAC	ATTAGATACCCYGGTAGTCC	MK	11	60	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	No	Chip48
+115.3	TCTGCCTGTC	ATTAGATACCCYGGTAGTCC	MK	11	60	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	No	Chip48
+116.1	TCAGGAATAC	ATTAGATACCCYGGTAGTCC	AR	116	21	F	CU	IBD	Stoma	Ileostoma	Ileostoma	Asian	Vegan	Never	Yes	Chip48
+117.3	CCTGAGATAC	ATTAGATACCCYGGTAGTCC	CF	73	44	F	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip48
+118.1	TAAGGAGAAC	ATTAGATACCCYGGTAGTCC	LS	67	18	M	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip60
+118.3	AAGAGGATTC	ATTAGATACCCYGGTAGTCC	LS	67	18	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip60
+119.1	TACCAAGATC	ATTAGATACCCYGGTAGTCC	HG	57	74	M	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip60
+120.3	CTGCAAGTTC	ATTAGATACCCYGGTAGTCC	RT	36	71	F	Other	Other	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	Yes	Chip60
+121.1	TCTATTCGTC	ATTAGATACCCYGGTAGTCC	TC	28	47	M	CD	IBD	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip62
+121.3	TTCCACTTCGC	ATTAGATACCCYGGTAGTCC	TC	28	47	M	CD	IBD	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip62
+122.1	TTCCGATAAC	ATTAGATACCCYGGTAGTCC	VE	122	84	F	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip60
+122.3	TGAGCGGAAC	ATTAGATACCCYGGTAGTCC	VE	122	84	M	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip60
+123.3	CTGACCGAAC	ATTAGATACCCYGGTAGTCC	UK	63	68	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	No	Chip60
+124.3	TCCTCGAATC	ATTAGATACCCYGGTAGTCC	EH	27	64	F	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip60
+125.3	TAGGTGGTTC	ATTAGATACCCYGGTAGTCC	VN	33	83	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip60
+126.3	TCTAACGGAC	ATTAGATACCCYGGTAGTCC	YW	126	73	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	No	Chip60
+127.1	TTGGAGTGTC	ATTAGATACCCYGGTAGTCC	RMS	127	81	F	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	No	Chip60
+128.1	TCTGGATGAC	ATTAGATACCCYGGTAGTCC	RZ	66	44	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Vegan	Never	No	Chip60
+129.3	TCTATTCGTC	ATTAGATACCCYGGTAGTCC	AM	129	69	M	CD	IBD	Bag	Ileostoma	Ileostoma	Asian	Normal	Former	No	Chip60
+130.3	AGGCAATTGC	ATTAGATACCCYGGTAGTCC	TR	130	46	M	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip60
+131.1	CAGATCCATC	ATTAGATACCCYGGTAGTCC	FA	131	85	M	Other	Other	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Current	Yes	Chip60
+131.3	TTAGTCGGAC	ATTAGATACCCYGGTAGTCC	FA	131	85	M	Other	Other	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Current	Yes	Chip60
+132.3	TCGCAATTAC	ATTAGATACCCYGGTAGTCC	TF	132	42	M	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	Yes	Chip60
+133.1	TTCGAGACGC	ATTAGATACCCYGGTAGTCC	AC	133	78	M	CC	CC	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip60
+133.3	TGCCACGAAC	ATTAGATACCCYGGTAGTCC	AC	133	78	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip60
+134.1	AACCTCATTC	ATTAGATACCCYGGTAGTCC	FB	134	76	M	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Current	No	Chip60
+134.3	CCTGAGATAC	ATTAGATACCCYGGTAGTCC	FB	48	76	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	No	Chip62
+135.1	CCTGAGATAC	ATTAGATACCCYGGTAGTCC	PB	48	54	M	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip60
+135.3	TTACAACCTC	ATTAGATACCCYGGTAGTCC	PB	67	54	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip60
+136.3	AACCATCCGC	ATTAGATACCCYGGTAGTCC	LS	137	18	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip60
+137.3	ATCCGGAATC	ATTAGATACCCYGGTAGTCC	RA	138	84	M	CC	CC	Bag	Colostoma_Left	Colostoma	Pakistan	Normal	Never	Yes	Chip60
+138.3	TCGACCACTC	ATTAGATACCCYGGTAGTCC	MA	138	84	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	Yes	Chip60
+139.1	CGAGGTTATC	ATTAGATACCCYGGTAGTCC	 F	29	64	M	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip60
+139.3	TCCAAGCTGC	ATTAGATACCCYGGTAGTCC	WR	29	64	M	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip60
+141.1	TCTTACACAC	ATTAGATACCCYGGTAGTCC	RZ	66	44	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Vegan	Never	Yes	Chip60
+141.3	TTCTCATTGAAC	ATTAGATACCCYGGTAGTCC	RZ	66	44	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Vegan	Never	Yes	Chip60
+142.1	TCGCATCGTTC	ATTAGATACCCYGGTAGTCC	UK	63	68	M	CC	CC	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Former	No	Chip60
+142.3	TAAGCCATTGTC	ATTAGATACCCYGGTAGTCC	UK	63	68	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	No	Chip60
+143.1	AAGGAATCGTC	ATTAGATACCCYGGTAGTCC	MB	143	80	F	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip60
+143.3	CTTGAGAATGTC	ATTAGATACCCYGGTAGTCC	MB	100	80	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip60
+145.3	CTGACATAATC	ATTAGATACCCYGGTAGTCC	MN	145	54	F	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip60
+146.3	TTCCACTTCGC	ATTAGATACCCYGGTAGTCC	AM	129	69	M	CD	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip60
+147.1	AGCACGAATC	ATTAGATACCCYGGTAGTCC	OB	147	69	M	CC	CC	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip60
+148.1	CTTGACACCGC	ATTAGATACCCYGGTAGTCC	UK	63	68	M	CC	CC	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Former	No	Chip60
+149.1	TTGGAGGCCAGC	ATTAGATACCCYGGTAGTCC	MG	149	57	F	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip60
+150.3	TCAGTCCGAAC	ATTAGATACCCYGGTAGTCC	MT	150	80	F	Other	Other	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Current	No	Chip60
+151.3	TAAGGCAACCAC	ATTAGATACCCYGGTAGTCC	GC	9	78	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip60
+152.3	CCTTAGAGTTC	ATTAGATACCCYGGTAGTCC	FB	134	76	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip62
+153.3	CGGACAATGGC	ATTAGATACCCYGGTAGTCC	YW	126	73	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	No	Chip60
+154.3	TTGAGCCTATTC	ATTAGATACCCYGGTAGTCC	LB	94	83	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip62
+155.3	CCGCATGGAAC	ATTAGATACCCYGGTAGTCC	IH	155	29	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	Yes	Chip60
+156.1	CTGGCAATCCTC	ATTAGATACCCYGGTAGTCC	SL	156	21	M	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	PEG-Sunde	Never	No	Chip60
+157.1	TCCACCTCCTC	ATTAGATACCCYGGTAGTCC	HB	157	79	M	CC	CC	Stoma	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip60
+157.3	CAGCATTAATTC	ATTAGATACCCYGGTAGTCC	HB	157	79	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip60
+158.3	TCTGGCAACGGC	ATTAGATACCCYGGTAGTCC	DS	158	56	F	CD	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip60
+159.3	TCCTAGAACAC	ATTAGATACCCYGGTAGTCC	MM	159	83	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip60
+160.3	TCCTTGATGTTC	ATTAGATACCCYGGTAGTCC	DR	160	32	F	CD	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip60
+162.3	TTCCTGCTTCAC	ATTAGATACCCYGGTAGTCC	HH	162	66	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip60
+163.3	CCTTAGAGTTC	ATTAGATACCCYGGTAGTCC	AM	163	62	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip60
+164.3	CTGAGTTCCGAC	ATTAGATACCCYGGTAGTCC	CJ	164	46	F	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Vegan	Never	No	Chip60
+165.3	TCCTGGCACATC	ATTAGATACCCYGGTAGTCC	TC	28	48	M	CD	IBD	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip60
+166.1	CCGCAATCATC	ATTAGATACCCYGGTAGTCC	EB	56	80	M	CC	CC	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip60
+166.3	TTCCTACCAGTC	ATTAGATACCCYGGTAGTCC	EB	56	80	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip60
+167.3	TCAAGAAGTTC	ATTAGATACCCYGGTAGTCC	HB	157	79	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip60
+168.3	CCTGGTTGTC	ATTAGATACCCYGGTAGTCC	MF	168	76	F	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip62
+169.3	TGAGGCTCCGAC	ATTAGATACCCYGGTAGTCC	RZ	66	44	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip60
+170.3	CGAAGGCCACAC	ATTAGATACCCYGGTAGTCC	HN	170	80	M	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Current	Yes	Chip60
+171.1	TCTGCCTGTC	ATTAGATACCCYGGTAGTCC	WB	74	51	M	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip60
+171.3	CGATCGGTTC	ATTAGATACCCYGGTAGTCC	WB	74	51	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip60
+172.1	TCTGCCTGTC	ATTAGATACCCYGGTAGTCC	PM	172	60	M	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip62
+172.3	CGATCGGTTC	ATTAGATACCCYGGTAGTCC	PM	172	60	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip62
+173.3	CGAAGCGATTC	ATTAGATACCCYGGTAGTCC	HB	157	79	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	Yes	Chip60
+174.3	CCTGGTTGTC	ATTAGATACCCYGGTAGTCC	BN	10	49	F	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip60
+175.1	TCGAAGGCAGGC	ATTAGATACCCYGGTAGTCC	EB	40	58	F	UC	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip60
+177.3	TACCAAGATC	ATTAGATACCCYGGTAGTCC	FLT	177	55	M	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip61
+179.1	CTGCAAGTTC	ATTAGATACCCYGGTAGTCC	OH	178	79	F	CU	IBD	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip61
+179.3	TTCGTGATTC	ATTAGATACCCYGGTAGTCC	OH	179	79	F	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip61
+180.3	TTCCGATAAC	ATTAGATACCCYGGTAGTCC	AW	180	93	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	Yes	Chip61
+181.1	TGAGCGGAAC	ATTAGATACCCYGGTAGTCC	BG	70	61	M	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip61
+181.3	CTGACCGAAC	ATTAGATACCCYGGTAGTCC	BG	70	61	M	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip61
+182.3	TCCTCGAATC	ATTAGATACCCYGGTAGTCC	PM	182	81	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Former	No	Chip61
+183.1	TAGGTGGTTC	ATTAGATACCCYGGTAGTCC	EN	183	85	F	Other	Other	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip61
+183.3	TCTAACGGAC	ATTAGATACCCYGGTAGTCC	EN	183	85	F	Other	Other	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip61
+184.1	TTGGAGTGTC	ATTAGATACCCYGGTAGTCC	MK	11	60	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Former	Yes	Chip61
+185.3	TCTATTCGTC	ATTAGATACCCYGGTAGTCC	BN	10	49	F	CU	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip61
+186.3	AGGCAATTGC	ATTAGATACCCYGGTAGTCC	RF	5	22	M	CD	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip61
+187.3	TTAGTCGGAC	ATTAGATACCCYGGTAGTCC	UK	63	68	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	No	Chip61
+188.3	CAGATCCATC	ATTAGATACCCYGGTAGTCC	HB	157	79	M	CC	CC	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Former	No	Chip61
+189.3	AGCACGAATC	ATTAGATACCCYGGTAGTCC	DB	189	60	M	CC	CC	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip62
+190.1	TCGCAATTAC	ATTAGATACCCYGGTAGTCC	PA	77	73	M	CC	CC	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip61
+190.3	TTCGAGACGC	ATTAGATACCCYGGTAGTCC	PA	77	73	M	CC	CC	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	No	Chip61
+191.3	TGCCACGAAC	ATTAGATACCCYGGTAGTCC	HJ	191	82	F	Other	Other	Bag	Colostoma_Right	Colostoma	Caucasian	Normal	Never	No	Chip61
+192.1	AACCTCATTC	ATTAGATACCCYGGTAGTCC	RS	192	66	F	CD	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip61
+192.3	CCTGAGATAC	ATTAGATACCCYGGTAGTCC	RS	192	66	F	CD	IBD	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Current	Yes	Chip61
+193.1	TTACAACCTC	ATTAGATACCCYGGTAGTCC	MH	8	67	F	CD	IBD	Stoma	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip61
+193.3	AACCATCCGC	ATTAGATACCCYGGTAGTCC	MH	8	67	F	CD	IBD	Bag	Colostoma_Left	Colostoma	Caucasian	Normal	Never	No	Chip61
+194.1	ATCCGGAATC	ATTAGATACCCYGGTAGTCC	VE	122	84	F	Other	Other	Stoma	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip61
+194.3	TCGACCACTC	ATTAGATACCCYGGTAGTCC	VE	122	84	F	Other	Other	Bag	Ileostoma	Ileostoma	Caucasian	Normal	Never	Yes	Chip61
+																
+197.2	AAGAGGATTC	ATTAGATACCCYGGTAGTCC	AG	189	69.40163934	M	Crohns_Disease		Stoma	Ileostoma		Caucasian	Normal	Current	Yes	Chip67
+197.4	TACCAAGATC	ATTAGATACCCYGGTAGTCC	AG	189	69.40163934	M	Crohns_Disease		Stoma	Colostoma_Left		Caucasian	Normal	Never	Yes	Chip67
+251.4	TTCTAAGAGAC	ATTAGATACCCYGGTAGTCC	AG	189	69.40163934	M	Crohns_Disease		Bag	Colostoma_Left		Caucasian	Normal	Never	Yes	Chip67
+251.2	TCCTAACATAAC	ATTAGATACCCYGGTAGTCC	AG	189	69.40163934	M	Crohns_Disease		Stoma	Ileostoma		Caucasian	Normal	Never	No	Chip67
+212.2	AACCTCATTC	ATTAGATACCCYGGTAGTCC	AHG	198	29.75136612	F	Other		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+212.4	CCTGAGATAC	ATTAGATACCCYGGTAGTCC	AHG	198	29.75136612	F	Other		Bag	Ileostoma		Caucasian	Normal	Former	Yes	Chip67
+285.4	CAGAAGGAAC	ATTAGATACCCYGGTAGTCC	AJ	238	83.09836066	F	Control		Stoma	Ileostoma		Caucasian	Normal	Former	No	Chip67
+285.2	CTGCAAGTTC	ATTAGATACCCYGGTAGTCC	AJ	238	83.09836066	F	Control		Bag	Ileostoma		Caucasian	Normal	Former	No	Chip67
+288.2	TAAGGAGAAC	ATTAGATACCCYGGTAGTCC	AT	226	45.07103825	M	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Never	No	Chip67
+264.4	TCTTACACAC	ATTAGATACCCYGGTAGTCC	AT	226	45.07103825	M	Colorectal_Cancer		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+198.2	CAGAAGGAAC	ATTAGATACCCYGGTAGTCC	AW	180	94.14754098	M	Colorectal_Cancer		Stoma	Ileostoma		Caucasian	Normal	Never	Yes	Chip67
+199.2	TTCGTGATTC	ATTAGATACCCYGGTAGTCC	BN	10	50.8442623	F	Ulcerative_Colitis		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+238.4	TGGAGCTTCCTC	ATTAGATACCCYGGTAGTCC	BN	10	50.8442623	F	Colitis_unspecified		Stoma	Colostoma_Right		Caucasian	Normal	Former	No	Chip67
+204.4	TCTAGAGGTC	ATTAGATACCCYGGTAGTCC	CL	193	82.6557377	F	Other		Bag	Colostoma_Right		Caucasian	Normal	Former	No	Chip67
+203.4	TTGGAGTGTC	ATTAGATACCCYGGTAGTCC	CT	87	85.24043716	F	Other		Bag	Colostoma_Right		Caucasian	Normal	Former	Yes	Chip67
+230.2	TCCTTGATGTTC	ATTAGATACCCYGGTAGTCC	DB	209	68.61202186	F	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Current	No	Chip67
+230.4	TCTAGCTCTTC	ATTAGATACCCYGGTAGTCC	DB	209	68.61202186	F	Colorectal_Cancer		Stoma	Colostoma_Left		Caucasian	Normal	Former	No	Chip67
+233.2	TGGAGGACGGAC	ATTAGATACCCYGGTAGTCC	DF	210	76.56010929	F	Other		Bag	Colostoma_Left		Caucasian	Normal	Never	Yes	Chip67
+268.4	ATCCGGAATC	ATTAGATACCCYGGTAGTCC	DH	229	85.06010929	F	Control		Stoma	Ileostoma		Caucasian	Normal	Current	No	Chip67
+276.4	TCTATTCGTC	ATTAGATACCCYGGTAGTCC	DS	158	57.94262295	F	Crohns_Disease		Bag	Ileostoma		Caucasian	Normal	Current	No	Chip67
+265.4	TCCAAGCTGC	ATTAGATACCCYGGTAGTCC	DT	227	61.49726776	M	Colorectal_Cancer		Bag	Ileostoma		Caucasian	Normal	Former	No	Chip67
+220.4	TCGCATCGTTC	ATTAGATACCCYGGTAGTCC	EB	202	82.00546448	M	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Never	No	Chip67
+231.4	TCACTCGGATC	ATTAGATACCCYGGTAGTCC	EB	40	60.04644809	F	Other		Bag	Ileostoma		Caucasian	Normal	Never	No	Chip67
+269.4	AACCATCCGC	ATTAGATACCCYGGTAGTCC	EE	230	37.78688525	F	Crohns_Disease		Bag	Ileostoma		Caucasian	Normal	Former	No	Chip67
+262.4	TAAGCCATTGTC	ATTAGATACCCYGGTAGTCC	EG	217	57.6147541	F	Colorectal_Cancer		Stoma	Ileostoma		Caucasian	Normal	Current	Yes	Chip67
+270.4	TTACAACCTC	ATTAGATACCCYGGTAGTCC	EU	233	69.83879781	M	Other		Bag	Ileostoma		Caucasian	Normal	Current	Yes	Chip67
+177.2	TCTGGCAACGGC	ATTAGATACCCYGGTAGTCC	FLT	177	56.28142077	M	Ulcerative_Colitis		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+218.2	TCCAAGCTGC	ATTAGATACCCYGGTAGTCC	FS	200	81.62568306	M	Colorectal_Cancer		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+218.4	TCTTACACAC	ATTAGATACCCYGGTAGTCC	FS	200	81.62568306	M	Colorectal_Cancer		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+235.4	TTCCACTTCGC	ATTAGATACCCYGGTAGTCC	FS	200	81.62568306	M	Colorectal_Cancer		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+274.4	CAGATCCATC	ATTAGATACCCYGGTAGTCC	FS	4	81.62295082	M	Colorectal_Cancer		Stoma	Colostoma_Left		Caucasian	Normal	Former	No	Chip67
+274.2	TCGCAATTAC	ATTAGATACCCYGGTAGTCC	FS	4	81.62295082	M	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Former	No	Chip67
+254.4	TTGGAGGCCAGC	ATTAGATACCCYGGTAGTCC	FS	200	81.62568306	M	Colorectal_Cancer		Bag	Ileostoma		Caucasian	Normal	Current	No	Chip67
+140.2	TCCACCTCCTC	ATTAGATACCCYGGTAGTCC	HF	19	45	F	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Former	No	Chip67
+140.4	CAGCATTAATTC	ATTAGATACCCYGGTAGTCC	HF	19	45	F	Colorectal_Cancer		Bag	Ileostoma		Caucasian	Normal	Never	No	Chip67
+236.2	AGCACGAATC	ATTAGATACCCYGGTAGTCC	HG	211	84.53278689	M	Other		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+236.4	CTGAGTTCCGAC	ATTAGATACCCYGGTAGTCC	HG	211	84.53278689	M	Other		Bag	Ileostoma		Caucasian	NA	Former	No	Chip67
+237.2	CTTGACACCGC	ATTAGATACCCYGGTAGTCC	HI	212	65.35519126	M	Other		Stoma	Ileostoma		NA	Normal	Never	No	Chip67
+237.4	TTGGAGGCCAGC	ATTAGATACCCYGGTAGTCC	HI	212	65.35519126	M	Other		Bag	Ileostoma		NA	Normal	Never	No	Chip67
+283.4	TTCCGATAAC	ATTAGATACCCYGGTAGTCC	HN	223	77.78688525	M	Colorectal_Cancer		Bag	Ileostoma		Caucasian	Normal	Former	No	Chip67
+283.2	TGAGCGGAAC	ATTAGATACCCYGGTAGTCC	HN	223	77.78688525	M	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Never	No	Chip67
+257.4	CTGACATAATC	ATTAGATACCCYGGTAGTCC	HN	223	77.78688525	M	Colorectal_Cancer		Stoma	Colostoma_Left		Caucasian	Normal	NA	No	Chip67
+256.4	TTCCACTTCGC	ATTAGATACCCYGGTAGTCC	HP	222	63.29234973	F	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	NA	No	Chip67
+256.2	AGCACGAATC	ATTAGATACCCYGGTAGTCC	HP	222	63.29234973	F	Colorectal_Cancer		Stoma	Colostoma_Left		Caucasian	Normal	Current	Yes	Chip67
+249.4	TTGAGCCTATTC	ATTAGATACCCYGGTAGTCC	HS	218	55.29508197	M	Other		Stoma	Ileostoma		Caucasian	Normal	Never	No	Chip67
+249.2	CCGCATGGAAC	ATTAGATACCCYGGTAGTCC	HS	218	55.29508197	M	Other		Bag	Ileostoma		Caucasian	Normal	Never	No	Chip67
+221.4	TAAGCCATTGTC	ATTAGATACCCYGGTAGTCC	JCDC	203	50.83060109	M	Ulcerative_Colitis		Bag	Ileostoma		Caucasian	Normal	Never	Yes	Chip67
+258.4	TAACAATCGGC	ATTAGATACCCYGGTAGTCC	JCDC	203	50.83060109	M	Ulcerative_Colitis		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+196.4	TAAGGAGAAC	ATTAGATACCCYGGTAGTCC	JG	188	77.22404372	M	Crohns_Disease		Stoma	Ileostoma		Caucasian	Normal	Never	Yes	Chip67
+223.4	TCCTAACATAAC	ATTAGATACCCYGGTAGTCC	JG	188	77.22404372	M	Crohns_Disease		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+178.2	TCCTAGAACAC	ATTAGATACCCYGGTAGTCC	JM	178	67.71584699	F	Control		Bag	Colostoma_Left		Caucasian	Normal	Former	No	Chip67
+229.2	TCTGGCAACGGC	ATTAGATACCCYGGTAGTCC	KZ	208	36.55191257	F	Crohns_Disease		Stoma	Colostoma_Left		Caucasian	Normal	Never	No	Chip67
+245.4	CGAAGGCCACAC	ATTAGATACCCYGGTAGTCC	KZ	208	36.55191257	F	Other		Bag	Colostoma_Left		Caucasian	Normal	Never	No	Chip67
+200.2	TGAGCGGAAC	ATTAGATACCCYGGTAGTCC	LG	190	80.34153005	NA	Other		Stoma	Colostoma_Left		Caucasian	Normal	Former	Yes	Chip67
+200.4	CTGACCGAAC	ATTAGATACCCYGGTAGTCC	LG	190	80.34153005	NA	Other		Bag	Colostoma_Left		Caucasian	Normal	Former	Yes	Chip67
+241.4	TTCTAAGAGAC	ATTAGATACCCYGGTAGTCC	MB	214	75.49453552	F	Other		Bag	Ileostoma		Caucasian	Normal	Never	No	Chip67
+227.4	CCGGAGAATCGC	ATTAGATACCCYGGTAGTCC	MDS	206	65.54644809	F	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Former	No	Chip67
+260.4	CTTGAGAATGTC	ATTAGATACCCYGGTAGTCC	MG	149	58.33060109	M	Other		Bag	Colostoma_Left		Kolumbien	Normal	Former	No	Chip67
+193.2	CCGCAATCATC	ATTAGATACCCYGGTAGTCC	MH	107	68.23224044	F	Crohns_Disease		Bag	Colostoma_Left		Caucasian	Normal	Former	Yes	Chip67
+193.4	TTCCTACCAGTC	ATTAGATACCCYGGTAGTCC	MH	107	68.23224044	F	Crohns_Disease		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip67
+282.4	CTGACCGAAC	ATTAGATACCCYGGTAGTCC	MH	107	68.23224044	F	Crohns_Disease		Bag	Colostoma_Left		Caucasian	Normal	Current	Yes	Chip67
+202.4	TAGGTGGTTC	ATTAGATACCCYGGTAGTCC	MK	192	68.07650273	F	Colorectal_Cancer		Stoma	Ileostoma		Caucasian	Normal	Current	No	Chip68
+211.4	TGCCACGAAC	ATTAGATACCCYGGTAGTCC	MK	11	61.48087432	F	Other		Bag	Colostoma_Left		Caucasian	Normal	Former	Yes	Chip68
+219.4	TTCTCATTGAAC	ATTAGATACCCYGGTAGTCC	ML	201	48.83333333	M	Ulcerative_Colitis		Bag	Colostoma_Right		Caucasian	Normal	Never	No	Chip68
+207.2	AGGCAATTGC	ATTAGATACCCYGGTAGTCC	MT	195	54.53278689	M	Crohns_Disease		Stoma	Colostoma_Right		Caucasian	Normal	Never	No	Chip68
+207.4	TTAGTCGGAC	ATTAGATACCCYGGTAGTCC	MT	195	54.53278689	M	Crohns_Disease		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip68
+240.4	TAAGGCAACCAC	ATTAGATACCCYGGTAGTCC	NG	79	64.64754098	F	Other		Bag	Colostoma_Left		Caucasian	Normal	Former	No	Chip68
+280.4	TCTAACGGAC	ATTAGATACCCYGGTAGTCC	NM	232	59.80874317	F	Colorectal_Cancer		Stoma	Colostoma_Left		Caucasian	Normal	Former	No	Chip68
+275.4	AGGCAATTGC	ATTAGATACCCYGGTAGTCC	OR	235	70.77322404	M	Colorectal_Cancer		Stoma	Colostoma_Left		Caucasian	Normal	Never	No	Chip68
+275.2	TTAGTCGGAC	ATTAGATACCCYGGTAGTCC	OR	235	70.77322404	M	Colorectal_Cancer		Bag	Ileostoma		Caucasian	Normal	Never	Yes	Chip68
+226.4	CTGGCAATCCTC	ATTAGATACCCYGGTAGTCC	PG	82	87.45628415	M	Colorectal_Cancer		Stoma	Ileostoma		Caucasian	Normal	Never	Yes	Chip68
+239.4	TCAGTCCGAAC	ATTAGATACCCYGGTAGTCC	PM	213	82.96174863	M	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Former	No	Chip68
+281.4	TCCTCGAATC	ATTAGATACCCYGGTAGTCC	PS	237	69.81420765	M	Colorectal_Cancer		Bag	Ileostoma		Caucasian	Normal	Former	Yes	Chip68
+281.2	TAGGTGGTTC	ATTAGATACCCYGGTAGTCC	PS	237	69.81420765	M	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Current	No	Chip68
+228.2	TCCACCTCCTC	ATTAGATACCCYGGTAGTCC	RB	207	68.66666667	M	Colorectal_Cancer		Bag	Ileostoma		Caucasian	Normal	Never	Yes	Chip68
+228.4	CAGCATTAATTC	ATTAGATACCCYGGTAGTCC	RB	207	68.66666667	M	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Current	No	Chip68
+278.4	TCTAGAGGTC	ATTAGATACCCYGGTAGTCC	RB	207	68.66666667	F	Colorectal_Cancer		Bag	Colostoma_Left		Caucasian	Normal	Former	No	Chip68
+186.2	TCCTTGATGTTC	ATTAGATACCCYGGTAGTCC	RF	5	24.37704918	M	Crohns_Disease		Stoma	Colostoma_Left		Caucasian	Normal	Former	No	Chip68
+65.2	TCACTCGGATC	ATTAGATACCCYGGTAGTCC	RF	5	22	M	Crohns_Disease		Bag	Colostoma_Left		Caucasian	Normal	Former	No	Chip68
+65.4	TTCCTGCTTCAC	ATTAGATACCCYGGTAGTCC	RF	5	22	M	Crohns_Disease		Stoma	Colostoma_Left		Caucasian	Normal	Former	No	Chip68
+279.4	TTGGAGTGTC	ATTAGATACCCYGGTAGTCC	RL	236	79.84153005	M	Colorectal_Cancer		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip68
+192.3	TCCTGGCACATC	ATTAGATACCCYGGTAGTCC	RS	187	67.6420765	F	Crohns_Disease		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip68
+253.4	TGGAGCTTCCTC	ATTAGATACCCYGGTAGTCC	RS	221	76.06830601	M	Other		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip68
+277.4	TCTGGATGAC	ATTAGATACCCYGGTAGTCC	RZ	66	45.8852459	F	Control		Bag	Ileostoma		Caucasian	Normal	Former	No	Chip68
+248.4	CTGGCAATCCTC	ATTAGATACCCYGGTAGTCC	RZ	66	45.8852459	F	Other		Bag	Ileostoma		Caucasian	Normal	Former	No	Chip68
+208.4	CAGATCCATC	ATTAGATACCCYGGTAGTCC	RZS	196	84.08196721	F	Crohns_Disease		Bag	Colostoma_Left		Caucasian	Normal	Former	No	Chip68
+210.4	TTCGAGACGC	ATTAGATACCCYGGTAGTCC	RZS	196	84.08196721	F	Other		Bag	Colostoma_Right		Caucasian	Normal	Former	Yes	Chip68
+209.4	TCGCAATTAC	ATTAGATACCCYGGTAGTCC	SM	197	67.94535519	M	Colorectal_Cancer		Bag	Colostoma_Right		Caucasian	Normal	Former	No	Chip68
+201.4	TCCTCGAATC	ATTAGATACCCYGGTAGTCC	ST	191	83.1284153	F	Other		Bag	Colostoma_Left		Caucasian	Normal	Former	Yes	Chip68
+286.4	TACCAAGATC	ATTAGATACCCYGGTAGTCC	ST	191	84.12568306	F	Control		Bag	Ileostoma		Caucasian	Normal	Current	No	Chip68
+259.4	TGGAGGACGGAC	ATTAGATACCCYGGTAGTCC	TA	224	63	F	Colorectal_Cancer		Bag	Ileostoma		Caucasian	Normal	Never	No	Chip68
+266.4	CGAGGTTATC	ATTAGATACCCYGGTAGTCC	TC	28	49.28142077	M	Crohns_Disease		Stoma	Ileostoma		Caucasian	Normal	Never	No	Chip68
+225.2	TTGAGCCTATTC	ATTAGATACCCYGGTAGTCC	TS	205	58.41803279	F	Colorectal_Cancer		Bag	Colostoma_Right		Caucasian	Normal	Former	Yes	Chip68
+225.4	CCGCATGGAAC	ATTAGATACCCYGGTAGTCC	TS	205	58.41803279	F	Colorectal_Cancer		Bag	Ileostoma		Caucasian	Normal	Current	Yes	Chip68
+267.4	TCGACCACTC	ATTAGATACCCYGGTAGTCC	UO	228	59.31693989	F	Control		Bag	Ileostoma		Caucasian	Normal	Never	No	Chip68
+194.2	TCAAGAAGTTC	ATTAGATACCCYGGTAGTCC	VE	122	85.49453552	F	Other		Stoma	Ileostoma		Caucasian	Normal	Never	No	Chip68
+263.2	TCGCATCGTTC	ATTAGATACCCYGGTAGTCC	VS	225	78.8442623	F	Control		Bag	Colostoma_Left		Caucasian	Normal	Former	Yes	Chip68
+196.2	CTAAGGTAAC	ATTAGATACCCYGGTAGTCC	JG	188	77	M	Crohns_Disease		Bag	Colostoma_Right		Caucasian	Normal	Former	No	Chip68
+198.4	CTGCAAGTTC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Stoma	Colostoma_Right		Caucasian	Normal	Former	No	Chip68
+199.4	TTCCGATAAC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Stoma	Colostoma_Left		Caucasian	Normal	Former	No	Chip68
+214.4	AACCATCCGC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Bag	Ileostoma		Caucasian	Normal	Never	Yes	Chip68
+215.4	ATCCGGAATC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip68
+216.4	TCGACCACTC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Bag	Ileostoma		Caucasian	Normal	Former	No	Chip68
+217.4	CGAGGTTATC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Stoma	Ileostoma		Caucasian	Normal	Former	No	Chip68
+222.4	AAGGAATCGTC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip68
+232.4	TTCCTGCTTCAC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Bag	Ileostoma		Caucasian	Normal	Former	No	Chip68
+233.4	TAACAATCGGC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Stoma	Ileostoma		Caucasian	Normal	Former	No	Chip68
+242.4	TTCAATTGGC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Bag	Ileostoma		Caucasian	Normal	Never	Yes	Chip68
+284.2	TTCGTGATTC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Stoma	Ileostoma		Caucasian	Normal	Current	Yes	Chip68
+273.4	TTCGAGACGC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Bag	Ileostoma		Caucasian	Normal	Current	No	Chip68
+272.4	AACCTCATTC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Stoma	Ileostoma		Caucasian	Normal	Never	No	Chip68
+271.2	CCTGAGATAC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Stoma	Colostoma_Left		Caucasian	Normal	Current	No	Chip68
+263.3	TTCTCATTGAAC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Stoma	Ileostoma		Caucasian	Normal	Never	Yes	Chip68
+252.2	TAAGGCAACCAC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip68
+250.2	CGGACAATGGC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Stoma	Ileostoma		Caucasian	Normal	Never	Yes	Chip68
+100.2	TCTAGCTCTTC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		Bag	Ileostoma		Caucasian	Normal	Never	Yes	Chip68
+161.4	CTGAGTTCCGAC	ATTAGATACCCYGGTAGTCC	#N/A	#N/A	#N/A	#N/A	#N/A		#N/A	#N/A		#N/A	#N/A	#N/A	#N/A	Chip68

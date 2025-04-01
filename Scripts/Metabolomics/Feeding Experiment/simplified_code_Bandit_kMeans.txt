@@ -1,0 +1,119 @@
+clear
+load('BANDIT_full_dataset_vars_new_November_2020.mat')
+anclass(find(~cellfun(@isstr,anclass))) = {'n.d.';'n.d.'};
+ansuperclass(find(~cellfun(@isstr,ansuperclass))) = {'n.d.';'n.d.'};
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Export Data 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+csvwrite('quantile_normalized_data_BANDIT.csv',Pqadata)
+
+% zscored
+Zdata = zscore(Pqadata')';
+csvwrite('quantile_normalized_zscored_data_BANDIT.csv',Zdata)
+
+xlswrite('row_annotation_BANDIT.xls',[num2cell(ionIdx)' num2cell(ionMz)' ionName' ionFormula' ionMod'])
+xlswrite('column_annotation_BANDIT.xls',[PatientID PatientInitials PlateNumber Position])
+
+
+
+% cluster all together and make cluster heatmap
+% first assemble data, all sorted by time only 4 timepoints each
+match = {'P1.' 'P2.' 'P3.' 'P4.' 'P6.' 'P7.'};
+tag = {'P1' 'P2' 'P3' 'P4' 'P6' 'P7'};
+temp = [];
+temptime = [];
+tempannot = [];
+for x = 1:length(match)
+    plotIdx = find(strncmp(TubeName,match{x},3));
+    plotTime = cell2mat(SamplingTime(plotIdx));
+    [plotTime,sidx] = sort(plotTime);
+    plotIdx = plotIdx(sidx);
+    temptime = [temptime; plotTime(1:4)];
+    plotIdx = plotIdx(1:4);
+    tempannot = [tempannot; cellfun(@strcat,repmat(tag(x),length(ionName),1),repmat({'_'},length(ionName),1),ionName','UniformOutput',false)];
+    temp = [temp; medianzscore(Pqadata(:,plotIdx))];   
+end
+
+
+%% how many clusters
+testclusters = 20;
+temp = medianzscore(temp);
+sumD = zeros(testclusters,testclusters);
+meanD = zeros(testclusters,1);
+opts = statset('Display','off'); % 'final' for info
+for clusters = 1:testclusters
+    [~,~,sumD(clusters,1:clusters)] = kmeans(temp,clusters, 'Distance','sqEuclidean','Replicates',100,'Options',opts);
+    meanD(clusters,1) = mean(sumD(clusters,1:clusters));
+end
+figure
+plot(meanD)
+ylabel('mean sum of point to centroid Distances')
+xlabel('number of clusters')
+print(gcf,[cd '\BANDIT\all_pooled_how_many_centroids.pdf'],'-dpdf','-painters','-r600')
+clear ans clusters ctrs D fctrs fkmix kmix meanD opts skdata sumD testclusters
+close
+
+%% choose clusters
+clusters = 10;
+
+%% all ions
+opts = statset('Display','off'); % 'final' for info
+[kmix,ctrs] = kmeans(temp,clusters,'Distance','sqEuclidean','Replicates',1000,'Options',opts);
+fig = figure
+for c=1:clusters
+    j = find(kmix ==c);
+    subplot(2,5,c)
+    f = [1:2*length(plotTime)];
+    v = [[plotTime;flip(plotTime)],[mean(temp(j,:),1)'+std(temp(j,:),[],1)';flip(mean(temp(j,:),1)'-std(temp(j,:),[],1)')]];
+    patch('Faces',f,'Vertices',v,'EdgeColor','none','FaceColor','k','FaceAlpha',0.3)
+    hold on
+    plot(plotTime,temp(j,:),'k.','MarkerSize',3)
+    plot(plotTime,ctrs(c,:),'ro-','MarkerSize',3,'MarkerFaceColor','r')
+    title([num2str(c) ', # of ions: ' num2str(size(j,1))],'FontSize',6);
+    hold off
+end
+print(fig,[cd '\BANDIT\all_pooled.pdf'],'-dpdf','-painters','-r600')
+close(fig)
+
+%% generate heatmap
+colors_rgb = distinguishable_colors(10,{'w','k'});
+colors_hex = cellstr(rgb2hex(colors_rgb));
+colors = cell(length(uidx),1);
+
+map = reshape(kmix,1598,6); % map contains ions x 6 patients with 1-10 index of cluster
+cg = clustergram(map-5,...
+    'RowLabels',ionName,...
+    'ColumnLabels',{'P1' 'P2' 'P3' 'P4' 'P6' 'P7'},...
+    'Standardize','none',...
+    'Cluster','all',...
+     'RowPDist','hamming',...
+     'ColumnPDist','hamming',...
+    'Colormap',colors_rgb,...
+    'DisplayRange',5)
+
+addTitle(cg,'Patient Time Profile Clustering','Color','k');
+addXLabel(cg,'Patients','FontSize',12);
+addYLabel(cg,'Annotated Ions','FontSize',12);
+
+
+% click colobar
+set(0,'showHiddenHandles','on');
+f = gcf
+cbh  = findobj(gcf,'Tag','HeatMapColorbar')
+set(cbh,'Ticks',[-4.5 -3.5 -2.5 -1.5 -0.5 0.5 1.5 2.5 3.5 4.5],'TickLabels',{'1' '2' '3' '4' '5' '6' '7' '8' '9' '10'})
+cbh.Label.String = 'Time-cours pattern Index';
+print(f,[cd '\BANDIT\all_clustering.pdf'],'-dpdf','-painters','-r600')
+close all
+
+temp = median(map,2);
+cc = countcats(categorical(map),2);
+[r c] = find(cc>0);
+[r, ridx] = sort(r);
+c = c(ridx); % sorted rows == ions, number of entries equals number of different cluster occuring for that ion
+table = tabulate(r); % sort by frequency
+[~,ridx] = sort(table(:,2)); % ridx is ion index ranked by fewest different clusters
+
+xlswrite([cd '\BANDIT\cluster_index_ranking.xls'],[[{'P1' 'P2' 'P3' 'P4' 'P6' 'P7'}; num2cell(map(ridx,:))]  [{'ion index'}; num2cell(ridx)] [{'compound'}; ionName(ridx)'] ],'index_map')
+

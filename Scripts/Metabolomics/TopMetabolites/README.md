@@ -1,0 +1,2 @@
+This is the data where we analyzed the distribution of top metabolites in CRC and CD patients using unsupervised clustering heatmap for different top metabolites in CRC patients and CD patients with comparisons between the ileum and right colon or left colon, or right versus left colon.
+Data generated from  45 ileal samples from 30 patients, 23 right colon samples from 10 patients and 74 left colon samples from 33 patients for CRC and 65 ileal samples from 27 patients, 18 right colon samples from 6 patients and 9 left colon samples 5 patients for CD patients.
